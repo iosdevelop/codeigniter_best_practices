@@ -29,7 +29,7 @@ switch ($_SERVER['HTTP_HOST']) {
 			break;
 	}
 	define('ENVIRONMENT', $env);
-	var_dump(ENVIRONMENT);
+	
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
